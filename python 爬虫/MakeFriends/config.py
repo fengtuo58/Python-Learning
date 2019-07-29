@@ -1,3 +1,4 @@
+#coding=utf-8
 # mongo 配置链接
 MONGO_URL = 'localhost'
 # mongo 数据库名称
