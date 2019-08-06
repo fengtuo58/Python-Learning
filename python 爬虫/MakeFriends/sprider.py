@@ -10,7 +10,7 @@ import pymongo
 
 # 定义 mongo 链接变量
 clinet = pymongo.MongoClient(MONGO_URL)
-# 定义 mongo 数据库变量
+#定义 mongo 数据库变量
 db = clinet[MONGO_DB]
 
 '''
